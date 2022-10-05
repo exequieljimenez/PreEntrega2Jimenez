@@ -22,7 +22,7 @@ const products = [
         name: 'Soppresatta', 
         price: 1000, 
         category: 'embutido', 
-        img:'https://vincentsmeatmarket.com/wp-content/uploads/2018/04/shutterstock_51882826.jpg', 
+        img:'http://gastrochemist.com/wp-content/uploads/2017/03/soppressata.jpg', 
         stock: 12, 
         description: 'sopresatta'
     },
